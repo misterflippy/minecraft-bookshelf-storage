@@ -1,0 +1,25 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "minecraft-bookshelf-storage Resources",
+    "description": "Bookshelf storage",
+    "uuid": "fa92e0b6-438e-455d-8a9f-5fa76c723a0f",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Resources for minecraft-bookshelf-storage",
+      "type": "resources",
+      "uuid": "5837a188-62a8-4850-b6d2-24a69429b1b7",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

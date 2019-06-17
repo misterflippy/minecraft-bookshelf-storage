@@ -1,0 +1,35 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "minecraft-bookshelf-storage Behaviors",
+    "description": "Bookshelf storage",
+    "uuid": "527d45ee-4a71-4953-917e-43e4afead326",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "behaviours for minecraft-bookshelf-storage",
+      "type": "client_data",
+      "uuid": "ffe05950-55ad-4741-a236-31db43bb7be5",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "fa92e0b6-438e-455d-8a9f-5fa76c723a0f",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
