@@ -1,0 +1,15 @@
+{
+    "format_version": [
+        1,
+        1,
+        0
+    ],
+    "bookshelf_storage:bookshelf_storage": {
+        "textures": {
+            "up": "bookshelf_top",
+            "down": "bookshelf_top",
+            "side": "bookshelf"
+        },
+        "sound": "wood"
+    }
+}

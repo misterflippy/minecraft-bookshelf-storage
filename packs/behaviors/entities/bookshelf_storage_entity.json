@@ -1,0 +1,30 @@
+{
+    "format_version": "1.8.0",
+    "minecraft:entity": {
+        "description": {
+            "identifier": "bookshelf_storage:bookshelf_storage_entity",
+            "is_spawnable": false,
+            "is_summonable": true,
+            "is_experimental": false
+        },
+        "components": {
+            "minecraft:type_family": {
+                "family": [ "inanimate" ]
+            },
+            "minecraft:collision_box": {
+                "width": 1,
+                "height": 1
+            },
+            "minecraft:health": {
+                "value": 6,
+                "max": 6
+            },
+            "minecraft:movement": {
+                "value": 0.0,
+                "max": 0.0
+            },
+            "minecraft:physics": {
+            }
+        }
+    }
+}

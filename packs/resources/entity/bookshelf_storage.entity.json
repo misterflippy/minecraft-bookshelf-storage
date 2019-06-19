@@ -1,0 +1,16 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:client_entity": {
+        "description": {
+            "identifier": "bookshelf_storage:bookshelf_storage_entity",
+            "materials": { "default": "entity" },
+            "textures": {
+                "default": "textures/entity/bookshelf_storage"
+            },
+            "geometry": {
+                "default": "geometry.bookshelf_storage"
+            },
+            "render_controllers": [ "controller.render.bookshelf_storage" ]
+        }
+    }
+}
