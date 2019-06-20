@@ -2,9 +2,18 @@
     "format_version": "1.8.0",
     "render_controllers": {
         "controller.render.bookshelf_storage": {
+            "arrays": {
+                "textures": {
+                    "Array.inventory": [
+                        "Texture.inventory_0",
+                        "Texture.inventory_20",
+                        "Texture.inventory_100"
+                    ]
+                }
+            },
             "geometry": "Geometry.default",
             "materials": [ { "*": "Material.default" } ],
-            "textures": [ "Texture.default" ]
+            "textures": [ "Array.inventory[variable.bookshelfstorageinventoryindex]" ]
         }
     }
 }

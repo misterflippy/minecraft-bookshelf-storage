@@ -8,7 +8,7 @@
             "textures": "textures/blocks/planks_oak"
         },
         "bookshelf": {
-            "textures": "textures/blocks/bookshelf"
+            "textures": "textures/blocks/bookshelf_storage_block_0"
         }
     }
 }

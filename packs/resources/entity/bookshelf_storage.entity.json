@@ -5,7 +5,9 @@
             "identifier": "bookshelf_storage:bookshelf_storage_entity",
             "materials": { "default": "entity" },
             "textures": {
-                "default": "textures/entity/bookshelf_storage"
+                "inventory_0": "textures/entity/bookshelf_storage_0",
+                "inventory_20": "textures/entity/bookshelf_storage_20",
+                "inventory_100": "textures/entity/bookshelf_storage_100"
             },
             "geometry": {
                 "default": "geometry.bookshelf_storage"

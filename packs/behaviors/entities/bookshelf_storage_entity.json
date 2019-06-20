@@ -12,8 +12,8 @@
                 "family": [ "inanimate" ]
             },
             "minecraft:collision_box": {
-                "width": 1,
-                "height": 1
+                "width": 0.5,
+                "height": 0.5
             },
             "minecraft:health": {
                 "value": 6,
@@ -24,6 +24,18 @@
                 "max": 0.0
             },
             "minecraft:physics": {
+            },
+            "minecraft:push_through": {
+                "value": 1
+            },
+            "minecraft:knockback_resistance": {
+                "value": 100,
+                "max": 100
+            },
+            "minecraft:inventory": {
+                "container_type": "container",
+                "inventory_size": 5,
+                "can_be_siphoned_from": true
             }
         }
     }
